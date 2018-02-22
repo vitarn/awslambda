@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+        "spec": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+        "type": "directory"
+      },
+      "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs"
+    ]
+  ],
+  "_from": "../../../../../../../../src/LambdaSandboxNodeJs/node-v6.x.x",
+  "_id": "awslambda@0.3.0",
+  "_inCache": true,
+  "_location": "/awslambda",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+    "spec": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../../../../../../../../src/LambdaSandboxNodeJs/node-v6.x.x",
+  "_shasum": "3b2fc05f568fc04050f1e09747b0e088976bf766",
+  "_shrinkwrap": null,
+  "_spec": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs/node-v6.x.x",
+  "_where": "/local/p4clients/pkgbuild-vb5_8/workspace/src/LambdaSandboxNodeJs",
+  "author": {
+    "name": "Amazon Web Services"
+  },
+  "dependencies": {},
+  "description": "AWS Lambda node.js runtime",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "gypfile": true,
+  "main": "index.js",
+  "name": "awslambda",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "0.3.0"
+}
