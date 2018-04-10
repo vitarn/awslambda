@@ -1,4 +1,6 @@
 # awslambda
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitarn/awslambda.svg)](https://greenkeeper.io/)
 Download from AWS Lambda runtime environment.
 
 Current version: 0.3.0
